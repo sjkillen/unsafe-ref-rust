@@ -1,0 +1,11 @@
+[package]
+name = "unsafe-ref"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Allow raw pointer access without those pesky unsafe blocks everywhere!"
+repository = "https://github.com/sjkillen/unsafe-ref-rust"
+readme = "README.md"
+keywords = ["unsafe"]
+
+[dependencies]
